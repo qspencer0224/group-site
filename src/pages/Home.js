@@ -87,7 +87,7 @@ function Home() {
           GREAT NEWS. BECAUSE IT IS THE SOLE PURPOSE OF THE WEBSITE. TO GET BACK
           INTO A CREATIVE FLOW OF SOFTWARE DEVELOPMENT. THIS SITE SERVES AS AN
           EMPTY CANVAS AND ALTHOUGH PERFECTION IS STRIVED FOR, IT IS NOT
-          EXPECTED. ENJOY.
+          EXPECTED. ENJOY. Something random
         </div>
         <div className="blue-box"></div>
         <div className="purple-box"></div>
