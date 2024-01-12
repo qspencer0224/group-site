@@ -1,0 +1,219 @@
+.App {
+  text-align: center;
+}
+
+.nav-bar{
+  background-color: black;
+  border: solid black;
+  height: 4vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#link{
+  text-decoration: none;
+  color: white;
+  font-family: 'nanum gothic coding';
+}
+.brand{
+  /* color: white; */
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 140px;
+  letter-spacing: 10px;
+  /* word-spacing: -70px; */
+}
+.credit{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: italic;
+}
+.new-years{
+  color: red;
+  font-family: '';
+  font-style: italic;
+  margin-top: 50px;
+  font-size: 60px;
+  font-weight: bold;
+}
+.winter{
+  background-color: red;
+  color: white;
+  font-family: Helvetica;
+  margin-top: 5px;
+  word-spacing: 5px;
+  
+}
+marquee{
+  margin-top: 20px;
+  display: flex;
+}
+.flex-box{
+  /* border: solid blue; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  height: 300px;
+}
+.box-1{
+  background-color: rgb(235, 235, 235);
+  border: dashed red;
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  border-width: 8px;
+  margin: 20px;
+  /* margin-right: 100px; */
+}
+.box-2{
+  background-color: rgb(235, 235, 235);
+  border: dashed red;
+  height: 140px;
+  width: 160px;
+  padding: 40px;
+  border-width: 8px;
+  margin: 20px;
+  /* margin-right: 100px; */
+}
+.box-3{
+  background-color: rgb(235, 235, 235);
+  border: dashed red;
+  height: 160px;
+  width: 200px;
+  padding: 30px;
+  border-width: 8px;
+  margin: 20px;
+  /* margin-right: 100px; */
+}
+.box-4{
+  background-color: rgb(235, 235, 235);
+  border: dashed red;
+  height: 120px;
+  width: 160px;
+  padding: 50px;
+  border-width: 8px;
+  margin: 20px;
+  /* margin-right: 100px; */
+}
+.box-5{
+  background-color: rgb(235, 235, 235);
+  border: dashed orangered;
+  height: 30vh;
+  width: 14vw;
+  padding: 10px;
+  border-width: 8px;
+  margin: 20px;
+  /* margin-right: 100px; */
+}
+.box-6{
+  background-color: rgb(235, 235, 235);
+  border: dashed aqua;
+  height: 30vh;
+  width: 14vw;
+  padding: 10px;
+  border-width: 8px;
+  margin: 20px;
+  /* margin-right: 100px; */
+}
+#product{
+  height: 100%;
+}
+.puffer{
+  /* border: solid rebeccapurple; */
+  position: relative;
+  bottom: 10px;
+  font-family: helvetica;
+  font-weight: bold;
+  /* margin-left: 60px; */
+  text-decoration: underline;
+  /* font-size: 20px; */
+}
+#pic{
+  height: 100%;
+}
+.update-box{
+  border: solid black;
+  height: 280px;
+  width: 260px;
+  border-width: 1.5px;
+  margin-left: 620px;
+  margin-top: 20px;
+}
+.update{
+  /* border: solid black; */
+  border-width: 1.5px;
+  background-color: blue;
+  font-family: Helvetica;
+  color: white;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+}
+.news{
+  /* border: solid lime; */
+  height: 256px
+}
+#news{
+  height: 100%;
+  width: 100%;
+}
+.ninety-3{
+  color: red;
+  font-family: 'rock salt';
+  text-decoration: underline;
+  font-weight: bold;
+  position: absolute;
+  left: 664px;
+  bottom: 4px;
+}
+.home-box{
+  /* background-color: lightgray; */
+  /* border: solid red; */
+  margin: 50px;
+  /* height: 200px; */
+  /* height: 180px; */
+  padding: 30px;
+  display: flex;
+  /* border-width: 8px ; */
+  /* width: 25%; */
+}
+.js{
+  border: dashed black;
+  padding: 20px;
+  border-width: 8px ;
+  width: 60%;
+  font-family: Helvetica;
+  font-weight: bold;
+  /* font-size: 17px; */
+  word-spacing: 10px;
+  margin-left: 260px;
+}
+.blue-box{
+  border: dashed blue;
+  height: 40px;
+  /* width: 60px; */
+  border-width: 8px;
+  position: absolute;
+}
+.purple-box{
+  border: dashed purple;
+  height: 40px;
+  width: 40px;
+  border-width: 8px;
+  position: absolute;
+  left: 160px;
+  bottom: -380px;
+  border-radius: 50%;
+}
+.pink-box{
+  border: dashed fuchsia;
+  height: 60px;
+  width: 60px;
+  border-width: 8px;
+  position: absolute;
+  left: 120px;
+  bottom: -480px;
+}
